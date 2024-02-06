@@ -1,0 +1,1 @@
+A simple program written in go that saves the elements of a relational database in another database, with the ability to display these elements in the terminal. The interface is a simple terminal ui that guides you through the process.
